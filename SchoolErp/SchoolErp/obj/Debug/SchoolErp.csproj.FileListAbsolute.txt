@@ -1,0 +1,402 @@
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\ApplicationInsights.config
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\roslyn\csc.exe
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\roslyn\System.Collections.Immutable.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\roslyn\System.Reflection.Metadata.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\roslyn\vbc.exe
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\roslyn\VBCSCompiler.exe
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\roslyn\VBCSCompiler.exe.config
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\SchoolErp.dll.config
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\SchoolErp.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\SchoolErp.pdb
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Antlr3.Runtime.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\EntityFramework.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\EntityFramework.SqlServer.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Microsoft.AI.DependencyCollector.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Microsoft.AI.Web.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Microsoft.AI.WindowsServer.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Microsoft.ApplicationInsights.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Microsoft.Web.Infrastructure.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Newtonsoft.Json.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\System.Web.Helpers.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\System.Web.Mvc.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\System.Web.Optimization.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\System.Web.Razor.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\System.Web.WebPages.Deployment.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\System.Web.WebPages.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\System.Web.WebPages.Razor.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\WebGrease.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\EntityFramework.xml
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\EntityFramework.SqlServer.xml
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Microsoft.AI.DependencyCollector.xml
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Microsoft.AI.Web.xml
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Microsoft.AI.WindowsServer.xml
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Microsoft.ApplicationInsights.xml
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\System.Web.Helpers.xml
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\System.Web.Mvc.xml
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\System.Web.Optimization.xml
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\System.Web.Razor.xml
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\System.Web.WebPages.xml
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\System.Web.WebPages.Deployment.xml
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\System.Web.WebPages.Razor.xml
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Antlr3.Runtime.pdb
+E:\InvictusSchool\SchoolErp\SchoolErp\bin\Newtonsoft.Json.xml
+E:\InvictusSchool\SchoolErp\SchoolErp\obj\Debug\SchoolErp.dll
+E:\InvictusSchool\SchoolErp\SchoolErp\obj\Debug\SchoolErp.pdb
+E:\InvictusSchool\SchoolErp\SchoolErp\obj\Debug\SchoolErp.csprojResolveAssemblyReference.cache
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\ApplicationInsights.config
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\csc.exe
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\vbc.exe
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\VBCSCompiler.exe
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\SchoolErp.dll.config
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\SchoolErp.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\SchoolErp.pdb
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Antlr3.Runtime.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\EntityFramework.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\EntityFramework.SqlServer.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.Web.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Newtonsoft.Json.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.Helpers.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.Mvc.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.Optimization.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.Razor.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.WebPages.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.WebPages.Razor.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\WebGrease.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\EntityFramework.xml
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\EntityFramework.SqlServer.xml
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.Web.xml
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.Helpers.xml
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.Mvc.xml
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.Optimization.xml
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.Razor.xml
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.WebPages.xml
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.WebPages.Razor.xml
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Antlr3.Runtime.pdb
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\bin\Newtonsoft.Json.xml
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\obj\Debug\SchoolErp.csprojResolveAssemblyReference.cache
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\obj\Debug\SchoolErp.dll
+C:\Users\MUEEB FREEDY\Downloads\SchoolErp (1)\SchoolErp\SchoolErp\obj\Debug\SchoolErp.pdb
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\ApplicationInsights.config
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\csc.exe
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\System.Collections.Immutable.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\System.Reflection.Metadata.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\vbc.exe
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\VBCSCompiler.exe
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\roslyn\VBCSCompiler.exe.config
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\SchoolErp.dll.config
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\SchoolErp.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\SchoolErp.pdb
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Antlr3.Runtime.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\EntityFramework.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\EntityFramework.SqlServer.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.DependencyCollector.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.Web.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.WindowsServer.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.ApplicationInsights.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.Web.Infrastructure.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Newtonsoft.Json.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.Helpers.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.Mvc.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.Optimization.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.Razor.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.WebPages.Deployment.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.WebPages.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.WebPages.Razor.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\WebGrease.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\EntityFramework.xml
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\EntityFramework.SqlServer.xml
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.DependencyCollector.xml
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.Web.xml
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.AI.WindowsServer.xml
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.ApplicationInsights.xml
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.Helpers.xml
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.Mvc.xml
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.Optimization.xml
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.Razor.xml
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.WebPages.xml
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.WebPages.Deployment.xml
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\System.Web.WebPages.Razor.xml
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Antlr3.Runtime.pdb
+E:\SchoolErp (1)\SchoolErp\SchoolErp\bin\Newtonsoft.Json.xml
+E:\SchoolErp (1)\SchoolErp\SchoolErp\obj\Debug\SchoolErp.csprojResolveAssemblyReference.cache
+E:\SchoolErp (1)\SchoolErp\SchoolErp\obj\Debug\SchoolErp.dll
+E:\SchoolErp (1)\SchoolErp\SchoolErp\obj\Debug\SchoolErp.pdb
+E:\SchoolErp\SchoolErp\bin\ApplicationInsights.config
+E:\SchoolErp\SchoolErp\bin\roslyn\csc.exe
+E:\SchoolErp\SchoolErp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SchoolErp\SchoolErp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SchoolErp\SchoolErp\bin\roslyn\System.Collections.Immutable.dll
+E:\SchoolErp\SchoolErp\bin\roslyn\System.Reflection.Metadata.dll
+E:\SchoolErp\SchoolErp\bin\roslyn\vbc.exe
+E:\SchoolErp\SchoolErp\bin\roslyn\VBCSCompiler.exe
+E:\SchoolErp\SchoolErp\bin\roslyn\VBCSCompiler.exe.config
+E:\SchoolErp\SchoolErp\bin\SchoolErp.dll.config
+E:\SchoolErp\SchoolErp\bin\SchoolErp.dll
+E:\SchoolErp\SchoolErp\bin\SchoolErp.pdb
+E:\SchoolErp\SchoolErp\bin\Antlr3.Runtime.dll
+E:\SchoolErp\SchoolErp\bin\EntityFramework.dll
+E:\SchoolErp\SchoolErp\bin\EntityFramework.SqlServer.dll
+E:\SchoolErp\SchoolErp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SchoolErp\SchoolErp\bin\Microsoft.AI.DependencyCollector.dll
+E:\SchoolErp\SchoolErp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SchoolErp\SchoolErp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SchoolErp\SchoolErp\bin\Microsoft.AI.Web.dll
+E:\SchoolErp\SchoolErp\bin\Microsoft.AI.WindowsServer.dll
+E:\SchoolErp\SchoolErp\bin\Microsoft.ApplicationInsights.dll
+E:\SchoolErp\SchoolErp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SchoolErp\SchoolErp\bin\Microsoft.Web.Infrastructure.dll
+E:\SchoolErp\SchoolErp\bin\Newtonsoft.Json.dll
+E:\SchoolErp\SchoolErp\bin\System.Web.Helpers.dll
+E:\SchoolErp\SchoolErp\bin\System.Web.Mvc.dll
+E:\SchoolErp\SchoolErp\bin\System.Web.Optimization.dll
+E:\SchoolErp\SchoolErp\bin\System.Web.Razor.dll
+E:\SchoolErp\SchoolErp\bin\System.Web.WebPages.Deployment.dll
+E:\SchoolErp\SchoolErp\bin\System.Web.WebPages.dll
+E:\SchoolErp\SchoolErp\bin\System.Web.WebPages.Razor.dll
+E:\SchoolErp\SchoolErp\bin\WebGrease.dll
+E:\SchoolErp\SchoolErp\bin\EntityFramework.xml
+E:\SchoolErp\SchoolErp\bin\EntityFramework.SqlServer.xml
+E:\SchoolErp\SchoolErp\bin\Microsoft.AI.DependencyCollector.xml
+E:\SchoolErp\SchoolErp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SchoolErp\SchoolErp\bin\Microsoft.AI.Web.xml
+E:\SchoolErp\SchoolErp\bin\Microsoft.AI.WindowsServer.xml
+E:\SchoolErp\SchoolErp\bin\Microsoft.ApplicationInsights.xml
+E:\SchoolErp\SchoolErp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SchoolErp\SchoolErp\bin\System.Web.Helpers.xml
+E:\SchoolErp\SchoolErp\bin\System.Web.Mvc.xml
+E:\SchoolErp\SchoolErp\bin\System.Web.Optimization.xml
+E:\SchoolErp\SchoolErp\bin\System.Web.Razor.xml
+E:\SchoolErp\SchoolErp\bin\System.Web.WebPages.xml
+E:\SchoolErp\SchoolErp\bin\System.Web.WebPages.Deployment.xml
+E:\SchoolErp\SchoolErp\bin\System.Web.WebPages.Razor.xml
+E:\SchoolErp\SchoolErp\bin\Antlr3.Runtime.pdb
+E:\SchoolErp\SchoolErp\bin\Newtonsoft.Json.xml
+E:\SchoolErp\SchoolErp\obj\Debug\SchoolErp.csprojResolveAssemblyReference.cache
+E:\SchoolErp\SchoolErp\obj\Debug\SchoolErp.dll
+E:\SchoolErp\SchoolErp\obj\Debug\SchoolErp.pdb
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\ApplicationInsights.config
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\csc.exe
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\System.Collections.Immutable.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\System.Reflection.Metadata.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\vbc.exe
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\VBCSCompiler.exe
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\VBCSCompiler.exe.config
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\SchoolErp.dll.config
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\SchoolErp.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\SchoolErp.pdb
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Antlr3.Runtime.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\EntityFramework.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\EntityFramework.SqlServer.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.DependencyCollector.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.Web.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.WindowsServer.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.ApplicationInsights.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.Web.Infrastructure.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Newtonsoft.Json.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Helpers.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Mvc.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Optimization.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Razor.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.Deployment.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.Razor.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\WebGrease.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\EntityFramework.xml
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\EntityFramework.SqlServer.xml
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.DependencyCollector.xml
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.Web.xml
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.WindowsServer.xml
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.ApplicationInsights.xml
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Helpers.xml
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Mvc.xml
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Optimization.xml
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Razor.xml
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.xml
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.Deployment.xml
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.Razor.xml
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Antlr3.Runtime.pdb
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Newtonsoft.Json.xml
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\obj\Debug\SchoolErp.csprojResolveAssemblyReference.cache
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\obj\Debug\SchoolErp.dll
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\obj\Debug\SchoolErp.pdb
+E:\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Linq.Dynamic.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\ApplicationInsights.config
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\csc.exe
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\System.Collections.Immutable.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\System.Reflection.Metadata.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\vbc.exe
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\VBCSCompiler.exe
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\VBCSCompiler.exe.config
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\SchoolErp.dll.config
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\SchoolErp.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\SchoolErp.pdb
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Antlr3.Runtime.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\EntityFramework.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\EntityFramework.SqlServer.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.DependencyCollector.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.Web.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.WindowsServer.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.ApplicationInsights.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.Web.Infrastructure.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Newtonsoft.Json.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Linq.Dynamic.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Helpers.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Mvc.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Optimization.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Razor.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.Deployment.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.Razor.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\WebGrease.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\EntityFramework.xml
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\EntityFramework.SqlServer.xml
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.DependencyCollector.xml
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.Web.xml
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.WindowsServer.xml
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.ApplicationInsights.xml
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Helpers.xml
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Mvc.xml
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Optimization.xml
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Razor.xml
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.xml
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.Deployment.xml
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.Razor.xml
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Antlr3.Runtime.pdb
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Newtonsoft.Json.xml
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\obj\Debug\SchoolErp.csprojResolveAssemblyReference.cache
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\obj\Debug\SchoolErp.dll
+E:\seses\Final_SchoolSystem\FinalSchoolSystem\SchoolErp\SchoolErp\obj\Debug\SchoolErp.pdb
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\ApplicationInsights.config
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\csc.exe
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\vbc.exe
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\VBCSCompiler.exe
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\SchoolErp.dll.config
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\SchoolErp.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\SchoolErp.pdb
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Antlr3.Runtime.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\EntityFramework.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\EntityFramework.SqlServer.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.Web.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Newtonsoft.Json.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Linq.Dynamic.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Helpers.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Mvc.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Optimization.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Razor.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.Razor.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\WebGrease.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\EntityFramework.xml
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\EntityFramework.SqlServer.xml
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.Web.xml
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Helpers.xml
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Mvc.xml
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Optimization.xml
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.Razor.xml
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.xml
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\System.Web.WebPages.Razor.xml
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Antlr3.Runtime.pdb
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\bin\Newtonsoft.Json.xml
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\obj\Debug\SchoolErp.csprojResolveAssemblyReference.cache
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\obj\Debug\SchoolErp.dll
+E:\Projects\FinalSchoolSystem\SchoolErp\SchoolErp\obj\Debug\SchoolErp.pdb
