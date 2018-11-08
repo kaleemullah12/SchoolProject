@@ -392,7 +392,6 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
-    <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\menu.cshtml" />
     <Content Include="Views\Shared\Dashboard.cshtml" />
     <Content Include="Views\Home\Dashboard.cshtml" />
@@ -410,6 +409,7 @@
     <Content Include="Views\Exam\Exam_Schedule.cshtml" />
     <Content Include="Views\Exam\Result.cshtml" />
     <Content Include="Views\Event\Event.cshtml" />
+    <Content Include="Views\Home\Login.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
