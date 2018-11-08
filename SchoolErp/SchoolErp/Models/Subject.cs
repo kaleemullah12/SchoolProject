@@ -17,6 +17,7 @@ namespace SchoolErp.Models
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Subject()
         {
+            this.Cl_Sub = new HashSet<Cl_Sub>();
             this.CSTs = new HashSet<CST>();
             this.Exam_Schedule = new HashSet<Exam_Schedule>();
             this.Results = new HashSet<Result>();
@@ -24,9 +25,9 @@ namespace SchoolErp.Models
     
         public int Subject_Id { get; set; }
         public string Name { get; set; }
-        public int Class_Id { get; set; }
     
-        public virtual Class Class { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<Cl_Sub> Cl_Sub { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<CST> CSTs { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]

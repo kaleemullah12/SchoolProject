@@ -22,7 +22,7 @@ function AddSection() {
     var name = $('#S_Name').val();
 
 
-    var cl = $('#S_Class option:selected').val();
+  
    
 
 
@@ -30,10 +30,7 @@ function AddSection() {
         ShowError("Please Enter  Name");
         return;
     }
-    if (cl == "") {
-        ShowError("Please Enter Class");
-        return;
-    }
+  
    
 
 
@@ -44,7 +41,7 @@ function AddSection() {
 
         data: {
             Name: name,
-            Class_Id: cl,
+           
            
         },
         contentType: "application/x-www-form-urlencoded; charset=UTF-8",

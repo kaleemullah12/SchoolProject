@@ -18,6 +18,7 @@ namespace SchoolErp.Models
         public Relation()
         {
             this.Parent_Record = new HashSet<Parent_Record>();
+            this.Parent_Record1 = new HashSet<Parent_Record>();
         }
     
         public int Relation_Id { get; set; }
@@ -25,5 +26,7 @@ namespace SchoolErp.Models
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Parent_Record> Parent_Record { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<Parent_Record> Parent_Record1 { get; set; }
     }
 }

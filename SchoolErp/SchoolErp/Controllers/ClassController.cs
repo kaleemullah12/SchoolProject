@@ -19,7 +19,7 @@ namespace SchoolErp.Controllers
         }
         public ActionResult AddClass()
         {
-            return View();
+                return View();
         }
         [HttpPost]
         public JsonResult AddClass(Class rec)
@@ -27,6 +27,7 @@ namespace SchoolErp.Controllers
             if (rec.Class_Id == 0)
             {
                 services.AddClass(rec);
+                
                 return Json(new { msg = "save" }, JsonRequestBehavior.AllowGet);
             }
             else
@@ -71,9 +72,9 @@ namespace SchoolErp.Controllers
         [HttpGet]
         public ActionResult AddSection()
         {
-            var cl_list = db.Classes.ToList();
+           
             var st_list = db.Staffs.ToList();
-            ViewBag.cl = cl_list;
+           
             ViewBag.st = st_list;
             return View();
         }
@@ -82,9 +83,9 @@ namespace SchoolErp.Controllers
         {
             SectionServices services = new SectionServices();
             services.AddSection(rec);
-            var cl_list = db.Classes.ToList();
+           
             var st_list = db.Staffs.ToList();
-            ViewBag.cl = cl_list;
+           
             ViewBag.st = st_list;
 
             return Json(new { msg = "save" }, JsonRequestBehavior.AllowGet);
@@ -92,10 +93,7 @@ namespace SchoolErp.Controllers
         [HttpGet]
         public ActionResult AddSubject()
         {
-            var cl_list = db.Classes.ToList();
-            
-            ViewBag.cl = cl_list;
-            
+          
             return View();
         }
         [HttpPost]
@@ -103,9 +101,6 @@ namespace SchoolErp.Controllers
         {
             SubjectServices services = new SubjectServices();
             services.AddSubject(rec);
-            var cl_list = db.Classes.ToList();
-           
-            ViewBag.cl = cl_list;
            
 
             return Json(new { msg = "save" }, JsonRequestBehavior.AllowGet);

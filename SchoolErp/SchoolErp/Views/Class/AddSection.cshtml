@@ -25,16 +25,7 @@
                                 <label>Name</label>
                                 <input type="text" name="Name" id="S_Name" class="form-control" required>
                             </div>
-                            <div class="form-group">
-                                <label>Class :</label>
-                                <select id="S_Class" class="form-control" required>
-                                    <option value="">Select...........</option>
-                                    @foreach (var item in ViewBag.cl)
-                                    {
-                                        <option value="@item.Class_Id">@item.Name</option>
-                                    }
-                                </select>
-                            </div>
+                           
                             <div class="form-group">
                                 <label>Staff</label>
                                 <select id="S_Staff" class="form-control" required>
