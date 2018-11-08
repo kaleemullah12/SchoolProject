@@ -7,8 +7,6 @@ $(document).ready(function () {
 function clearform() {
     $('#S_Name').val('');
    
-    $("#S_Class").val('');
-    $('#S_Class').trigger('change');
     $("#S_Staff").val('');
     $('#S_Staff').trigger('change');
    
@@ -23,16 +21,12 @@ function AddSection() {
     var name = $('#S_Name').val();
    
     
-    var cl = $('#S_Class option:selected').val();
+   
     var st = $('#S_Staff option:selected').val();
     
 
     if (name == "") {
         ShowError("Please Enter  Name");
-        return;
-    }
-    if (cl == "") {
-        ShowError("Please Enter Class");
         return;
     }
     if (st == "") {
@@ -48,7 +42,7 @@ function AddSection() {
 
         data: {
             Name: name,
-            Class_Id: cl,
+           
             Staff_Id: st,
         },
         contentType: "application/x-www-form-urlencoded; charset=UTF-8",

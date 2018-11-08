@@ -20,6 +20,24 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
+    <EntitySetMapping Name="Cl_Sec">
+      <EntityTypeMapping TypeName="InvictusSchoolModel.Cl_Sec">
+        <MappingFragment StoreEntitySet="Cl_Sec">
+          <ScalarProperty Name="CS_Id" ColumnName="CS_Id" />
+          <ScalarProperty Name="Class_Id" ColumnName="Class_Id" />
+          <ScalarProperty Name="Sec_Id" ColumnName="Sec_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cl_Sub">
+      <EntityTypeMapping TypeName="InvictusSchoolModel.Cl_Sub">
+        <MappingFragment StoreEntitySet="Cl_Sub">
+          <ScalarProperty Name="Cl_Sub_ID" ColumnName="Cl_Sub_ID" />
+          <ScalarProperty Name="Class_Id" ColumnName="Class_Id" />
+          <ScalarProperty Name="Sub_Id" ColumnName="Sub_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
     <EntitySetMapping Name="Classes">
       <EntityTypeMapping TypeName="InvictusSchoolModel.Class">
         <MappingFragment StoreEntitySet="Class">
@@ -75,8 +93,6 @@
     <EntitySetMapping Name="Parent_Records">
       <EntityTypeMapping TypeName="InvictusSchoolModel.Parent_Record">
         <MappingFragment StoreEntitySet="Parent Record">
-          <ScalarProperty Name="Relation" ColumnName="Relation" />
-          <ScalarProperty Name="Parent_Guardian" ColumnName="Parent_Guardian" />
           <ScalarProperty Name="P_Id" ColumnName="P_Id" />
           <ScalarProperty Name="Name" ColumnName="Name" />
           <ScalarProperty Name="CNIC" ColumnName="CNIC" />
@@ -86,6 +102,24 @@
           <ScalarProperty Name="Gender" ColumnName="Gender" />
           <ScalarProperty Name="Stud_Roll_Number" ColumnName="Stud_Roll_Number" />
           <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Parent_Guardian" ColumnName="Parent_Guardian" />
+          <ScalarProperty Name="Relation" ColumnName="Relation" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Qualifications">
+      <EntityTypeMapping TypeName="InvictusSchoolModel.Qualification">
+        <MappingFragment StoreEntitySet="Qualification">
+          <ScalarProperty Name="Qualification_Id" ColumnName="Qualification_Id" />
+          <ScalarProperty Name="Qualification1" ColumnName="Qualification" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Relations">
+      <EntityTypeMapping TypeName="InvictusSchoolModel.Relation">
+        <MappingFragment StoreEntitySet="Relations">
+          <ScalarProperty Name="Relation_Id" ColumnName="Relation_Id" />
+          <ScalarProperty Name="Relation1" ColumnName="Relation" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
@@ -107,7 +141,6 @@
         <MappingFragment StoreEntitySet="Sections">
           <ScalarProperty Name="Section_Id" ColumnName="Section_Id" />
           <ScalarProperty Name="Name" ColumnName="Name" />
-          <ScalarProperty Name="Class_Id" ColumnName="Class_Id" />
           <ScalarProperty Name="Staff_Id" ColumnName="Staff_Id" />
         </MappingFragment>
       </EntityTypeMapping>
@@ -115,17 +148,17 @@
     <EntitySetMapping Name="Staffs">
       <EntityTypeMapping TypeName="InvictusSchoolModel.Staff">
         <MappingFragment StoreEntitySet="Staff">
-          <ScalarProperty Name="Gender" ColumnName="Gender" />
-          <ScalarProperty Name="DOB" ColumnName="DOB" />
-          <ScalarProperty Name="Qualification_Id" ColumnName="Qualification_Id" />
           <ScalarProperty Name="Staff_Id" ColumnName="Staff_Id" />
           <ScalarProperty Name="Name" ColumnName="Name" />
           <ScalarProperty Name="Cell_Number" ColumnName="Cell_Number" />
           <ScalarProperty Name="Address" ColumnName="Address" />
           <ScalarProperty Name="CNIC" ColumnName="CNIC" />
+          <ScalarProperty Name="Qualification_Id" ColumnName="Qualification_Id" />
           <ScalarProperty Name="Detail" ColumnName="Detail" />
           <ScalarProperty Name="Designation_Id" ColumnName="Designation_Id" />
           <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="DOB" ColumnName="DOB" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
@@ -172,7 +205,6 @@
         <MappingFragment StoreEntitySet="Subjects">
           <ScalarProperty Name="Subject_Id" ColumnName="Subject_Id" />
           <ScalarProperty Name="Name" ColumnName="Name" />
-          <ScalarProperty Name="Class_Id" ColumnName="Class_Id" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
@@ -184,22 +216,6 @@
           <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
           <ScalarProperty Name="version" ColumnName="version" />
           <ScalarProperty Name="definition" ColumnName="definition" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-    <EntitySetMapping Name="Relations">
-      <EntityTypeMapping TypeName="InvictusSchoolModel.Relation">
-        <MappingFragment StoreEntitySet="Relations">
-          <ScalarProperty Name="Relation1" ColumnName="Relation" />
-          <ScalarProperty Name="Relation_Id" ColumnName="Relation_Id" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-    <EntitySetMapping Name="Qualifications">
-      <EntityTypeMapping TypeName="InvictusSchoolModel.Qualification">
-        <MappingFragment StoreEntitySet="Qualification">
-          <ScalarProperty Name="Qualification1" ColumnName="Qualification" />
-          <ScalarProperty Name="Qualification_Id" ColumnName="Qualification_Id" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

@@ -182,6 +182,12 @@
     <Compile Include="Models\Class.cs">
       <DependentUpon>SchoolSystem.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\Cl_Sec.cs">
+      <DependentUpon>SchoolSystem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Cl_Sub.cs">
+      <DependentUpon>SchoolSystem.tt</DependentUpon>
+    </Compile>
     <Compile Include="Models\CST.cs">
       <DependentUpon>SchoolSystem.tt</DependentUpon>
     </Compile>

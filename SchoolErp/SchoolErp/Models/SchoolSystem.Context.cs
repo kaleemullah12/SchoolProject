@@ -27,12 +27,16 @@ namespace SchoolErp.Models
     
         public virtual DbSet<Admin> Admins { get; set; }
         public virtual DbSet<Attendence> Attendences { get; set; }
+        public virtual DbSet<Cl_Sec> Cl_Sec { get; set; }
+        public virtual DbSet<Cl_Sub> Cl_Sub { get; set; }
         public virtual DbSet<Class> Classes { get; set; }
         public virtual DbSet<CST> CSTs { get; set; }
         public virtual DbSet<Designation> Designations { get; set; }
         public virtual DbSet<Event> Events { get; set; }
         public virtual DbSet<Exam_Schedule> Exam_Schedules { get; set; }
         public virtual DbSet<Parent_Record> Parent_Records { get; set; }
+        public virtual DbSet<Qualification> Qualifications { get; set; }
+        public virtual DbSet<Relation> Relations { get; set; }
         public virtual DbSet<Result> Results { get; set; }
         public virtual DbSet<Section> Sections { get; set; }
         public virtual DbSet<Staff> Staffs { get; set; }
@@ -41,7 +45,5 @@ namespace SchoolErp.Models
         public virtual DbSet<Student_Record> Student_Records { get; set; }
         public virtual DbSet<Subject> Subjects { get; set; }
         public virtual DbSet<sysdiagram> sysdiagrams { get; set; }
-        public virtual DbSet<Relation> Relations { get; set; }
-        public virtual DbSet<Qualification> Qualifications { get; set; }
     }
 }
